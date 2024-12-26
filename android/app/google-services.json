@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284490692386",
+    "project_id": "b6arya-485bc",
+    "storage_bucket": "b6arya-485bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284490692386:android:ddd351c397f671732c177b",
+        "android_client_info": {
+          "package_name": "com.battery.b6arya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRXe6jtTabR25MoIz5p3F6llp8GorDxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

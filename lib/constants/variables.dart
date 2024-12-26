@@ -1,0 +1,11 @@
+import 'dart:ui';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
+double width = 1;
+double height = 1;
+Brightness currentTheme = SchedulerBinding.instance.platformDispatcher.platformBrightness;
+bool baw = true;
+double widthPlusHeight = 1362;
+final navigatorKey = GlobalKey<NavigatorState>();
+ThemeData theme = Theme.of(navigatorKey.currentState!.context);
